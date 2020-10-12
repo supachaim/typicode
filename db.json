@@ -13,9 +13,9 @@
   "items": [
     {
       "id": 1,
-      "barcode":"1111111"
+      "barcode":"1111111",
       "location_id": 1,
-      "name": "Bear Thai"
+      "name": "Bear Thai",
       "qty": 1,
       "image":"https://3.bp.blogspot.com/-2gcXo793Bvg/TnzRnck5isI/AAAAAAAAACQ/y4oUYheGkD8/s1600/3919-san-miguel.jpg"
     }
