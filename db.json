@@ -1,8 +1,9 @@
 {
   "storage_items": [
     {
+      "id" : "1",  
       "name" : "Vegetable",
-      "id" : "1",     
+        
       "items": [
 	    {
 	      "id" : 1,
