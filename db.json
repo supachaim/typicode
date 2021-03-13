@@ -1,4 +1,33 @@
 {
+  "storage_items": [
+    {
+      "name" : "Vegetable",
+      "id" : "1",     
+      "items": [
+	    {
+	      "id" : 1,
+	      "name" : "คะน้ำ",
+	      "qty" : 0,
+	      "unit" : "pc"
+	    },
+	    {
+	      "id" :2,
+	      "name" : "ผักบุ้ง",
+	      "qty" : 0,
+	      "unit" : "pc"
+	    },
+	    {
+	       "id" :3,
+	      "name" : "แตงกวา",
+	      "qty" : 0,
+	      "unit" : "pc"
+	    }
+  	]
+    }
+    
+  ] 
+  
+  
   "locations": [
     {
       "id": 1,
