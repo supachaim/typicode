@@ -27,7 +27,18 @@
     
   ],
   
-  
+   "locations2": [
+    {
+      "id": 1,
+      "name": "WH1"
+    },
+    {
+          "id": 2,
+          "name": "WH2"
+    }
+
+  ],
+	
   "locations": [
     {
       "id": 1,
